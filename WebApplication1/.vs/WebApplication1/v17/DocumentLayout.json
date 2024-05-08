@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC4CC82-7EB7-4468-8D1C-0E6A786C8412}|TestProject1\\TestProject1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC4CC82-7EB7-4468-8D1C-0E6A786C8412}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\interfaces\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\models\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\repositories\\auditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\auditrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\context\\auditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\context\\auditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|c:\\users\\maniac\\source\\repos\\webapplication1\\webapplication1\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39CB814-04B8-4087-8C36-0CBE9BBAF338}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\context\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:46:39.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Services\\AuditService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\AuditService.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Services\\AuditService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\AuditService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:41:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuditService.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Interfaces\\IAuditService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IAuditService.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Interfaces\\IAuditService.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IAuditService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:40:54.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Services\\UserService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\UserService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAArwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:39:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwDMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:32:27.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:31:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuditRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Repositories\\AuditRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\AuditRepository.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Repositories\\AuditRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\AuditRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:28:07.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Audit.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Audit.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Audit.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Audit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:26:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:16:06.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Context\\AuditContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Context\\AuditContext.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Context\\AuditContext.cs",
+              "RelativeToolTip": "WebApplication1\\Context\\AuditContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:25:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:24:37.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:54:47.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Context\\UserContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Context\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Maniac\\source\\repos\\WebApplication1\\WebApplication1\\Context\\UserContext.cs",
+              "RelativeToolTip": "WebApplication1\\Context\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:23:01.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
