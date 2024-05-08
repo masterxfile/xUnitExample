@@ -10,7 +10,7 @@ namespace TestProject1
         private readonly UserService _sut;
 
         private readonly Mock<IUserRepository> userRepositoryMock = new(MockBehavior.Strict);
-        private readonly Mock<IAuditService> auditService = new();
+        private readonly Mock<IAuditService> auditService = new(MockBehavior.Strict);
 
 
         //private readonly Mock<IUserRepository> userRepositoryMock = new();
